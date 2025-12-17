@@ -7,7 +7,6 @@ to assess the association between **ambient temperature and mortality**.
 - Quasi-Poisson regression
 - Distributed Lag Non-Linear Models (DLNM)
 - Adjustment for RH, PM10, O₃, day-of-week, and seasonality
-- Attributable Fraction (AF) and Attributable Number (AN)
 
 ## 📊 Data
 Publicly available data from the **Chicago National Morbidity, Mortality, and Air Pollution Study (NMMAPS)**,
