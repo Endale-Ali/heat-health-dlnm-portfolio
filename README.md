@@ -14,7 +14,7 @@ Publicly available data from the **Chicago National Morbidity, Mortality, and Ai
 included in the `dlnm` R package.
 
 ## 🚀 Live App
-👉 https://Endale-Ali.shinyapps.io/heat-health-dlnm-portfolio/
+👉 https://endale-ali.shinyapps.io/heat-mortality/
 
 ## 👤 Author
 **Endale Alemayehu Ali**  
